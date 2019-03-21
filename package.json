@@ -1,0 +1,27 @@
+{
+  "name": "git-update",
+  "version": "1.0.0",
+  "description": "Support for git based application update",
+  "main": "git-update.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burgrp/git-update.git"
+  },
+  "keywords": [
+    "git",
+    "update",
+    "npm"
+  ],
+  "author": "Pavel Burgr <pb@drake.cz>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burgrp/git-update/issues"
+  },
+  "homepage": "https://github.com/burgrp/git-update#readme",
+  "dependencies": {
+    "simple-git": "^1.107.0"
+  }
+}
