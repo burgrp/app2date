@@ -1,5 +1,5 @@
 {
-  "name": "git-update",
+  "name": "app2date",
   "version": "1.0.0",
   "description": "Support for git based application update",
   "main": "git-update.js",
